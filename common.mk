@@ -199,6 +199,13 @@ PRODUCT_PACKAGES += \
     libhwbinder \
     libhwbinder.vendor
 
+# Ih8sn
+PRODUCT_PACKAGES += \
+    ih8sn
+
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/ih8sn
+
 # Init
 PRODUCT_PACKAGES += \
     fstab.qcom

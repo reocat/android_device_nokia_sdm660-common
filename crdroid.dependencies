@@ -2,5 +2,10 @@
   {
     "repository": "android_kernel_nokia_sdm660",
     "target_path": "kernel/nokia/sdm660"
+  },
+  {
+    "repository": "Terminator-J/vendor_ih8sn",
+    "target_path": "vendor/ih8sn",
+    "branch": "13.0-test"
   }
 ]
